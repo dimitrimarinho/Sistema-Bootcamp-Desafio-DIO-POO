@@ -1,6 +1,6 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 
 # Created by https://www.toptal.com/developers/gitignore/api/java,intellij
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,intellij
@@ -59,8 +59,6 @@ cmake-build-*/
 
 # IntelliJ
 out/
-out/*
-../out
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
