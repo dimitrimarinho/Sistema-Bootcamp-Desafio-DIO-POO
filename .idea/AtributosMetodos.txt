@@ -35,7 +35,3 @@ BOOTCAMP
     dataFinal
     devsInscritos
     conteudos
-- Métodos
-    inscreverBootcamp
-    progredir
-    calcularTotalXp
