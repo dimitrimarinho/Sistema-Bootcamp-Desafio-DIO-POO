@@ -1,0 +1,41 @@
+CURSOS
+ - Atributos
+    título
+    descricao
+    cargaHoraria
+ - Métodos
+    calcularXp();
+
+
+MENTORIAS
+ - Atributos
+     título
+     descricao
+     data
+ - Métodos
+     calcularXp();
+
+
+DEV
+- Atributos
+    nome
+    conteudosInscritos
+    conteudosConcluidos
+- Métodos
+    inscreverBootcamp
+    progredir
+    calcularTotalXp
+
+
+BOOTCAMP
+- Atributos
+    nome
+    descricao
+    dataInicial
+    dataFinal
+    devsInscritos
+    conteudos
+- Métodos
+    inscreverBootcamp
+    progredir
+    calcularTotalXp
