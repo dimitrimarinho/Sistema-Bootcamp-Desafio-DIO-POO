@@ -1,0 +1,23 @@
+nome
+conteudosInscritos
+conteudosConcluidos
+ - Métodos
+ inscrever
+ progredir
+ calcularTotalXp
+
+ CURSOS
+ - Atributos
+ título
+ descricao
+ cargaHoraria
+ - Métodos
+ calcularXp();
+
+ MENTORIAS
+ - Atributos
+ título
+ descricao
+ data
+ - Métodos
+ calcularXp();
